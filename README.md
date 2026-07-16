@@ -9,6 +9,7 @@ This repository contains my React.js learning journey following the Chai aur Cod
 - customReact
 - 02counter
 - 03tailwindprops
+- 04bgChanger
 
 ## Topics Covered
 
@@ -20,8 +21,12 @@ This repository contains my React.js learning journey following the Chai aur Cod
 - useState Hook
 - Counter App
 - List Rendering with map()
-- Tailwind CSS
 - Reusable Components
+- Event Handling
+- Passing Functions as Props
+- Dynamic Rendering
+- Tailwind CSS
+- Background Color Changer
 - Vite
 
 ## Technologies Used
@@ -30,3 +35,9 @@ This repository contains my React.js learning journey following the Chai aur Cod
 - Vite
 - JavaScript (ES6+)
 - Tailwind CSS
+
+## Mini Projects
+
+- Counter App
+- Background Color Changer
+- Props Practice
